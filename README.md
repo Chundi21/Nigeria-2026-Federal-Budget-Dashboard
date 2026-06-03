@@ -76,11 +76,11 @@ CapEx Ratio = DIVIDE([CapEx Total], [RecEx Total])
 ## Key Findings
 **Security dominates discretionary spending.** Security received one of the largest single-sector allocations, reflecting ongoing internal security challenges across multiple theatres.
 
-**Healthcare capital allocation is thin.** A significant share of the health budget goes to recurrent costs — primarily salaries — leaving limited room for infrastructure and programme delivery.
+**Healthcare capital allocation is thin.** A significant share of the health budget goes to recurrent costs, primarily salaries, leaving limited room for infrastructure and programme delivery.
 
 **Education faces the same structural problem.** Personnel costs consume the majority of the education budget, with TETFund bearing most capital spend for tertiary institutions.
 
-**Capital vs recurrent imbalance is systemic.** Across all three sectors, recurrent expenditure consistently overshadows capital spend — limiting investment in long-term capacity regardless of headline allocation numbers.
+**Capital vs recurrent imbalance is systemic.** Across all three sectors, recurrent expenditure consistently overshadows capital spend, limiting investment in long-term capacity regardless of headline allocation numbers.
 
 
 ## What I Learned
